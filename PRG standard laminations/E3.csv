@@ -1,0 +1,6 @@
+﻿E0 Modulus of Elasticity of laminations in strength major direction (Mpsi),1.2
+E0 Modulus of Elasticity of laminations in strength minor direction (Mpsi),0.9
+Fb.major ASDreference (psi),1200
+Fb.minor ASDreference (psi),350
+Fs.major ASD reference planar(rolling) shear (psi),35
+Fs.minor ASD reference planar(rolling) shear (psi),35
